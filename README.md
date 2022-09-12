@@ -18,4 +18,4 @@ my notebook on Kaggle --> <a href="https://www.kaggle.com/code/miraehab/passenge
 
 <h2>Features Description:</h2>
 
-You can find the description of the features <a href="">HERE</a>
+You can find the description of the features <a href="https://github.com/miraehab/Airline-Passenger-Satisfaction/blob/main/data_dictionary.csv">HERE</a>
